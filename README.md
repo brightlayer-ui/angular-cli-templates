@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-angular-cli-templates).
+
 # Angular CLI Templates
 [![codecov](https://codecov.io/gh/brightlayer-ui/angular-cli-templates/branch/master/graph/badge.svg?token=MHGB0RGXVF)](https://codecov.io/gh/brightlayer-ui/angular-cli-templates)
 
